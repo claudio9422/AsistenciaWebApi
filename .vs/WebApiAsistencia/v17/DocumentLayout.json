@@ -1,0 +1,167 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\WorkSpace_Claudio\\Aplicaciones\\Sistema Asistencia\\WebApiAsistencia\\WebApiAsistencia\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BD16F58C-C7AC-4D4C-AEBD-EE720C83B047}|WebApiAsistencia\\WebApiAsistencia.csproj|d:\\workspace_claudio\\aplicaciones\\sistema asistencia\\webapiasistencia\\webapiasistencia\\webapiasistencia\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD16F58C-C7AC-4D4C-AEBD-EE720C83B047}|WebApiAsistencia\\WebApiAsistencia.csproj|solutionrelative:webapiasistencia\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD16F58C-C7AC-4D4C-AEBD-EE720C83B047}|WebApiAsistencia\\WebApiAsistencia.csproj|d:\\workspace_claudio\\aplicaciones\\sistema asistencia\\webapiasistencia\\webapiasistencia\\webapiasistencia\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD16F58C-C7AC-4D4C-AEBD-EE720C83B047}|WebApiAsistencia\\WebApiAsistencia.csproj|solutionrelative:webapiasistencia\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD16F58C-C7AC-4D4C-AEBD-EE720C83B047}|WebApiAsistencia\\WebApiAsistencia.csproj|d:\\workspace_claudio\\aplicaciones\\sistema asistencia\\webapiasistencia\\webapiasistencia\\webapiasistencia\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD16F58C-C7AC-4D4C-AEBD-EE720C83B047}|WebApiAsistencia\\WebApiAsistencia.csproj|solutionrelative:webapiasistencia\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD16F58C-C7AC-4D4C-AEBD-EE720C83B047}|WebApiAsistencia\\WebApiAsistencia.csproj|d:\\workspace_claudio\\aplicaciones\\sistema asistencia\\webapiasistencia\\webapiasistencia\\webapiasistencia\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BD16F58C-C7AC-4D4C-AEBD-EE720C83B047}|WebApiAsistencia\\WebApiAsistencia.csproj|solutionrelative:webapiasistencia\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD16F58C-C7AC-4D4C-AEBD-EE720C83B047}|WebApiAsistencia\\WebApiAsistencia.csproj|d:\\workspace_claudio\\aplicaciones\\sistema asistencia\\webapiasistencia\\webapiasistencia\\webapiasistencia\\interfaces\\iasistenciaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD16F58C-C7AC-4D4C-AEBD-EE720C83B047}|WebApiAsistencia\\WebApiAsistencia.csproj|solutionrelative:webapiasistencia\\interfaces\\iasistenciaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD16F58C-C7AC-4D4C-AEBD-EE720C83B047}|WebApiAsistencia\\WebApiAsistencia.csproj|d:\\workspace_claudio\\aplicaciones\\sistema asistencia\\webapiasistencia\\webapiasistencia\\webapiasistencia\\controllers\\asistenciacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD16F58C-C7AC-4D4C-AEBD-EE720C83B047}|WebApiAsistencia\\WebApiAsistencia.csproj|solutionrelative:webapiasistencia\\controllers\\asistenciacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD16F58C-C7AC-4D4C-AEBD-EE720C83B047}|WebApiAsistencia\\WebApiAsistencia.csproj|d:\\workspace_claudio\\aplicaciones\\sistema asistencia\\webapiasistencia\\webapiasistencia\\webapiasistencia\\models\\marcacione.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD16F58C-C7AC-4D4C-AEBD-EE720C83B047}|WebApiAsistencia\\WebApiAsistencia.csproj|solutionrelative:webapiasistencia\\models\\marcacione.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD16F58C-C7AC-4D4C-AEBD-EE720C83B047}|WebApiAsistencia\\WebApiAsistencia.csproj|d:\\workspace_claudio\\aplicaciones\\sistema asistencia\\webapiasistencia\\webapiasistencia\\webapiasistencia\\helpers\\stringextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD16F58C-C7AC-4D4C-AEBD-EE720C83B047}|WebApiAsistencia\\WebApiAsistencia.csproj|solutionrelative:webapiasistencia\\helpers\\stringextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD16F58C-C7AC-4D4C-AEBD-EE720C83B047}|WebApiAsistencia\\WebApiAsistencia.csproj|d:\\workspace_claudio\\aplicaciones\\sistema asistencia\\webapiasistencia\\webapiasistencia\\webapiasistencia\\dtos\\historialasistenciadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD16F58C-C7AC-4D4C-AEBD-EE720C83B047}|WebApiAsistencia\\WebApiAsistencia.csproj|solutionrelative:webapiasistencia\\dtos\\historialasistenciadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 96,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AsistenciaController.cs",
+              "DocumentMoniker": "D:\\WorkSpace_Claudio\\Aplicaciones\\Sistema Asistencia\\WebApiAsistencia\\WebApiAsistencia\\WebApiAsistencia\\Controllers\\AsistenciaController.cs",
+              "RelativeDocumentMoniker": "WebApiAsistencia\\Controllers\\AsistenciaController.cs",
+              "ToolTip": "D:\\WorkSpace_Claudio\\Aplicaciones\\Sistema Asistencia\\WebApiAsistencia\\WebApiAsistencia\\WebApiAsistencia\\Controllers\\AsistenciaController.cs",
+              "RelativeToolTip": "WebApiAsistencia\\Controllers\\AsistenciaController.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAowGIAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-17T00:02:48.81Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IAsistenciaService.cs",
+              "DocumentMoniker": "D:\\WorkSpace_Claudio\\Aplicaciones\\Sistema Asistencia\\WebApiAsistencia\\WebApiAsistencia\\WebApiAsistencia\\Interfaces\\IAsistenciaService.cs",
+              "RelativeDocumentMoniker": "WebApiAsistencia\\Interfaces\\IAsistenciaService.cs",
+              "ToolTip": "D:\\WorkSpace_Claudio\\Aplicaciones\\Sistema Asistencia\\WebApiAsistencia\\WebApiAsistencia\\WebApiAsistencia\\Interfaces\\IAsistenciaService.cs",
+              "RelativeToolTip": "WebApiAsistencia\\Interfaces\\IAsistenciaService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-17T02:39:04.53Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "D:\\WorkSpace_Claudio\\Aplicaciones\\Sistema Asistencia\\WebApiAsistencia\\WebApiAsistencia\\WebApiAsistencia\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "WebApiAsistencia\\Services\\AuthService.cs",
+              "ToolTip": "D:\\WorkSpace_Claudio\\Aplicaciones\\Sistema Asistencia\\WebApiAsistencia\\WebApiAsistencia\\WebApiAsistencia\\Services\\AuthService.cs",
+              "RelativeToolTip": "WebApiAsistencia\\Services\\AuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-22T02:28:29.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\WorkSpace_Claudio\\Aplicaciones\\Sistema Asistencia\\WebApiAsistencia\\WebApiAsistencia\\WebApiAsistencia\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "WebApiAsistencia\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\WorkSpace_Claudio\\Aplicaciones\\Sistema Asistencia\\WebApiAsistencia\\WebApiAsistencia\\WebApiAsistencia\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "WebApiAsistencia\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwCQAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-22T02:28:14.271Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\WorkSpace_Claudio\\Aplicaciones\\Sistema Asistencia\\WebApiAsistencia\\WebApiAsistencia\\WebApiAsistencia\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApiAsistencia\\appsettings.json",
+              "ToolTip": "D:\\WorkSpace_Claudio\\Aplicaciones\\Sistema Asistencia\\WebApiAsistencia\\WebApiAsistencia\\WebApiAsistencia\\appsettings.json",
+              "RelativeToolTip": "WebApiAsistencia\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-07-20T22:23:34.265Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Marcacione.cs",
+              "DocumentMoniker": "D:\\WorkSpace_Claudio\\Aplicaciones\\Sistema Asistencia\\WebApiAsistencia\\WebApiAsistencia\\WebApiAsistencia\\Models\\Marcacione.cs",
+              "RelativeDocumentMoniker": "WebApiAsistencia\\Models\\Marcacione.cs",
+              "ToolTip": "D:\\WorkSpace_Claudio\\Aplicaciones\\Sistema Asistencia\\WebApiAsistencia\\WebApiAsistencia\\WebApiAsistencia\\Models\\Marcacione.cs",
+              "RelativeToolTip": "WebApiAsistencia\\Models\\Marcacione.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAA5wBcAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-20T17:13:42.085Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StringExtensions.cs",
+              "DocumentMoniker": "D:\\WorkSpace_Claudio\\Aplicaciones\\Sistema Asistencia\\WebApiAsistencia\\WebApiAsistencia\\WebApiAsistencia\\Helpers\\StringExtensions.cs",
+              "RelativeDocumentMoniker": "WebApiAsistencia\\Helpers\\StringExtensions.cs",
+              "ToolTip": "D:\\WorkSpace_Claudio\\Aplicaciones\\Sistema Asistencia\\WebApiAsistencia\\WebApiAsistencia\\WebApiAsistencia\\Helpers\\StringExtensions.cs",
+              "RelativeToolTip": "WebApiAsistencia\\Helpers\\StringExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-16T23:43:09.211Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HistorialAsistenciaDto.cs",
+              "DocumentMoniker": "D:\\WorkSpace_Claudio\\Aplicaciones\\Sistema Asistencia\\WebApiAsistencia\\WebApiAsistencia\\WebApiAsistencia\\DTOs\\HistorialAsistenciaDto.cs",
+              "RelativeDocumentMoniker": "WebApiAsistencia\\DTOs\\HistorialAsistenciaDto.cs",
+              "ToolTip": "D:\\WorkSpace_Claudio\\Aplicaciones\\Sistema Asistencia\\WebApiAsistencia\\WebApiAsistencia\\WebApiAsistencia\\DTOs\\HistorialAsistenciaDto.cs",
+              "RelativeToolTip": "WebApiAsistencia\\DTOs\\HistorialAsistenciaDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-16T14:50:34.245Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\WorkSpace_Claudio\\Aplicaciones\\Sistema Asistencia\\WebApiAsistencia\\WebApiAsistencia\\WebApiAsistencia\\Program.cs",
+              "RelativeDocumentMoniker": "WebApiAsistencia\\Program.cs",
+              "ToolTip": "D:\\WorkSpace_Claudio\\Aplicaciones\\Sistema Asistencia\\WebApiAsistencia\\WebApiAsistencia\\WebApiAsistencia\\Program.cs",
+              "RelativeToolTip": "WebApiAsistencia\\Program.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAAAGYAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-27T01:13:02.467Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
