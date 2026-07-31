@@ -1,0 +1,15 @@
+# Ignorar carpetas de compilación y entorno
+.vs/
+.vscode/
+bin/
+obj/
+**/bin/
+**/obj/
+
+# Archivos de estado de usuario
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.vsp
+*.vspx
